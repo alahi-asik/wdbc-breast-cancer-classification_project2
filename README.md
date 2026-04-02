@@ -61,4 +61,5 @@ Machine Learning Repository.
 
 ## Requirements
 See `requirements.txt` or install directly:
-pip install numpy pandas matplotlib seaborn scikit-learn optuna shap statsmodels joblib
+pip install numpy pandas matplotlib seaborn scikit-learn shap statsmodels joblib
+
