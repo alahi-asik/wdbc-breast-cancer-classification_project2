@@ -20,7 +20,7 @@ Machine Learning Repository.
 ## How to Run
 1. Open `wdbc_classification_Asik.ipynb` in Google Colab
 2. Upload `wdbc.data` to your Google Drive under a `datasets/` folder
-3. Run `pip install -r requirements.txt`
+3. Run `!pip install shap statsmodels`
 4. Run all cells top to bottom
 
 ---
